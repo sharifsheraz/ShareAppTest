@@ -1,11 +1,11 @@
 using System.Web.Http;
 using WebActivatorEx;
-using ShareAppTest;
+using ShapeAppTest;
 using Swashbuckle.Application;
 
 [assembly: PreApplicationStartMethod(typeof(SwaggerConfig), "Register")]
 
-namespace ShareAppTest
+namespace ShapeAppTest
 {
     public class SwaggerConfig
     {
@@ -32,7 +32,7 @@ namespace ShareAppTest
                         // hold additional metadata for an API. Version and title are required but you can also provide
                         // additional fields by chaining methods off SingleApiVersion.
                         //
-                        c.SingleApiVersion("v1", "ShareAppTest");
+                        c.SingleApiVersion("v1", "ShapeAppTest");
 
                         // If you want the output Swagger docs to be indented properly, enable the "PrettyPrint" option.
                         //

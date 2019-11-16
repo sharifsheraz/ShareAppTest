@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace ShareAppTest.Areas.HelpPage.ModelDescriptions
+namespace ShapeAppTest.Areas.HelpPage.ModelDescriptions
 {
     public class ParameterDescription
     {

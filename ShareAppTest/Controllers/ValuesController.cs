@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace ShareAppTest.Controllers
+namespace ShapeAppTest.Controllers
 {
     [Authorize]
     public class ValuesController : ApiController

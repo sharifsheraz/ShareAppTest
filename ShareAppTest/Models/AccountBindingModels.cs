@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using Newtonsoft.Json;
 
-namespace ShareAppTest.Models
+namespace ShapeAppTest.Models
 {
     // Models used as parameters to AccountController actions.
 

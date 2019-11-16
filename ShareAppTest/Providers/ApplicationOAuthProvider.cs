@@ -9,9 +9,9 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
-using ShareAppTest.Models;
+using ShapeAppTest.Models;
 
-namespace ShareAppTest.Providers
+namespace ShapeAppTest.Providers
 {
     public class ApplicationOAuthProvider : OAuthAuthorizationServerProvider
     {

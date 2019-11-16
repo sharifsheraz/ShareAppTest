@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ShareAppTest.Models
+namespace ShapeAppTest.Models
 {
     // Models returned by AccountController actions.
 

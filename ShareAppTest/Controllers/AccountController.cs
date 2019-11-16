@@ -13,11 +13,11 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
-using ShareAppTest.Models;
-using ShareAppTest.Providers;
-using ShareAppTest.Results;
+using ShapeAppTest.Models;
+using ShapeAppTest.Providers;
+using ShapeAppTest.Results;
 
-namespace ShareAppTest.Controllers
+namespace ShapeAppTest.Controllers
 {
     [Authorize]
     [RoutePrefix("api/Account")]

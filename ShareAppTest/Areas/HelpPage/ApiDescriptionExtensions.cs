@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace ShareAppTest.Areas.HelpPage
+namespace ShapeAppTest.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

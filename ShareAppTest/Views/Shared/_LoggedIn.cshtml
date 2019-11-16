@@ -1,0 +1,15 @@
+﻿
+<ul ng-controller="account" class="cd-main-nav__list js-signin-modal-trigger">
+        <li><a class="profile-btn" ng-click="goToProfile()"href="javascript:void(0);">Profile</a></li>
+        <li><a id="profile-btn" ng-click="signOut()"class="profile-btn" href=@Url.Action("SignOut", "StudyBox")>SignOut</a></li>
+</ul>
+    @*<script>
+            $("#profile-btn").click(function () {
+                $.ajax({
+                    url: '/StudyBox/Profile',
+                    success: function (data) {
+                        $("#render-body").html(data);
+                    }
+                })
+            })
+        </script>*@

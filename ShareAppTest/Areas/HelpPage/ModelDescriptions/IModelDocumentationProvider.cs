@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace ShareAppTest.Areas.HelpPage.ModelDescriptions
+namespace ShapeAppTest.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

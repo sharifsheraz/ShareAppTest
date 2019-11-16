@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace ShareAppTest.Areas.HelpPage
+namespace ShapeAppTest.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

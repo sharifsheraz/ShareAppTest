@@ -1,4 +1,4 @@
-namespace ShareAppTest.Areas.HelpPage
+namespace ShapeAppTest.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

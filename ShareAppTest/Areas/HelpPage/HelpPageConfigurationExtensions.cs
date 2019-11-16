@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using ShareAppTest.Areas.HelpPage.ModelDescriptions;
-using ShareAppTest.Areas.HelpPage.Models;
+using ShapeAppTest.Areas.HelpPage.ModelDescriptions;
+using ShapeAppTest.Areas.HelpPage.Models;
 
-namespace ShareAppTest.Areas.HelpPage
+namespace ShapeAppTest.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

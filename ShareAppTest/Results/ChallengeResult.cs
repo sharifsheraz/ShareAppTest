@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Web.Http;
 
-namespace ShareAppTest.Results
+namespace ShapeAppTest.Results
 {
     public class ChallengeResult : IHttpActionResult
     {

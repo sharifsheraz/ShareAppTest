@@ -1,4 +1,4 @@
-namespace ShareAppTest.Areas.HelpPage.ModelDescriptions
+namespace ShapeAppTest.Areas.HelpPage.ModelDescriptions
 {
     public class EnumValueDescription
     {

@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace ShareAppTest.Areas.HelpPage.ModelDescriptions
+namespace ShapeAppTest.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

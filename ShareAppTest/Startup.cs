@@ -4,9 +4,9 @@ using System.Linq;
 using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(ShareAppTest.Startup))]
+[assembly: OwinStartup(typeof(ShapeAppTest.Startup))]
 
-namespace ShareAppTest
+namespace ShapeAppTest
 {
     public partial class Startup
     {

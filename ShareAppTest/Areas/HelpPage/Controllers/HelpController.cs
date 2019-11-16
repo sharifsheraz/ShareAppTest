@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using ShareAppTest.Areas.HelpPage.ModelDescriptions;
-using ShareAppTest.Areas.HelpPage.Models;
+using ShapeAppTest.Areas.HelpPage.ModelDescriptions;
+using ShapeAppTest.Areas.HelpPage.Models;
 
-namespace ShareAppTest.Areas.HelpPage.Controllers
+namespace ShapeAppTest.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

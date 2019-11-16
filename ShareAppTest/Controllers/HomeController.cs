@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace ShareAppTest.Controllers
+namespace ShapeAppTest.Controllers
 {
     public class HomeController : Controller
     {

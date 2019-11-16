@@ -8,10 +8,10 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using ShareAppTest.Providers;
-using ShareAppTest.Models;
+using ShapeAppTest.Providers;
+using ShapeAppTest.Models;
 
-namespace ShareAppTest
+namespace ShapeAppTest
 {
     public partial class Startup
     {
